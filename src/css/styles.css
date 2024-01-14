@@ -23,3 +23,11 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+
+.go-home {
+  padding: 20px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+    margin-left: 40px;
+}
